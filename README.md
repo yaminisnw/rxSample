@@ -1,6 +1,8 @@
 # rx_dart_sample
 
-A new Flutter project.
+Reactive Programming:
+  In its basic form, it deals with event streams.
+  Whenever an event occurs, we react to it by doing something. We could react to events by using for loops but in Functional Programming the transformations are done via map(), filter() and other Rx operators.
 
 ## Getting Started
 
